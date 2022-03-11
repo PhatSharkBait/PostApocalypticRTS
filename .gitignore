@@ -11,6 +11,7 @@
 [Mm]emoryCaptures/
 .idea/
 packages/
+Packages/
 Plugins/
 
 # Never ignore Asset meta data
