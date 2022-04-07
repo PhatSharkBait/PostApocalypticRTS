@@ -14,6 +14,9 @@ packages/
 Packages/
 Plugins/
 
+UserSettings/Search.settings
+ProjectSettings/RiderScriptEditorPersistedState.asset
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
