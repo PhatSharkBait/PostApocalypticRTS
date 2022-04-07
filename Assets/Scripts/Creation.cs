@@ -1,6 +1,6 @@
 using UnityEngine;
 
-internal abstract class Creation : MonoBehaviour {
+public abstract class Creation : MonoBehaviour {
     private int _health;
     private int _damageOutput;
     private int _range;
